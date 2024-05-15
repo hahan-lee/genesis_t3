@@ -1,0 +1,36 @@
+{
+  "sec2img" :[
+    {"name":"G90 BLACK","img":"./img/new_50x24.png",
+    "spanT":"","carImg":"./img/allcar1.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"LONG WHEEL BASE","carImg":"./img/allcar2.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar3.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar4.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar5.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar6.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"SHOOTING BRAKE","carImg":"./img/allcar7.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"GV80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar8.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV80 COUPE","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar9.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar10.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar11.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV60","img":"./img/ev_20x24.png","spanT":"","carImg":"./img/allcar12.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"}   
+  ],
+  "sec2imgBlack" :[
+    {"name":"G90 BLACK","img":"./img/new_50x24.png",
+    "spanT":"","carImg":"./img/allcar1.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""}    
+  ],
+  "sec2imgSedan" :[
+    {"name":"G90","img":"./img/blank.gif","spanT":"LONG WHEEL BASE","carImg":"./img/allcar2.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar3.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar4.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar5.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar6.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"SHOOTING BRAKE","carImg":"./img/allcar7.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""}
+  ],
+  "sec2imgSuv" :[
+    {"name":"GV80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar8.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV80 COUPE","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar9.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar10.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar11.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV60","img":"./img/ev_20x24.png","spanT":"","carImg":"./img/allcar12.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"}
+  ]
+}

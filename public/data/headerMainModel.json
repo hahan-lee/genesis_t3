@@ -1,0 +1,92 @@
+{
+  "allModelFist" :[
+    {"name":"G90 BLACK","img":"./img/new_50x24.png",
+    "spanT":"","carImg":"./img/allcar1.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"LONG WHEEL BASE","carImg":"./img/allcar2.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar3.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar4.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar5.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar6.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"}    
+  ],
+  "allModelSecond":[
+    {"name":"G70","img":"./img/blank.gif","spanT":"SHOOTING BRAKE","carImg":"./img/allcar7.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"GV80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar8.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV80 COUPE","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar9.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar10.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar11.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV60","img":"./img/ev_20x24.png","spanT":"","carImg":"./img/allcar12.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"}
+  ],
+  "blackModel":[
+    {"name":"G90 BLACK","img":"./img/new_50x24.png",
+    "spanT":"","carImg":"./img/allcar1.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""}
+  ],
+  "sedanModel":[
+    {"name":"G90 BLACK","img":"./img/new_50x24.png",
+    "spanT":"","carImg":"./img/allcar1.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"LONG WHEEL BASE","carImg":"./img/allcar2.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":""},
+    {"name":"G90","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar3.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar4.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G80","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar5.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"G70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar6.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"} 
+
+  ],
+  "suvModel":[
+    {"name":"GV80","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar8.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV80 COUPE","img":"./img/new_50x24.png","spanT":"","carImg":"./img/allcar9.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/blank.gif","spanT":"","carImg":"./img/allcar10.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV70","img":"./img/ev_20x24.png","spanT":"ELECTRIFIED","carImg":"./img/allcar11.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"},
+    {"name":"GV60","img":"./img/ev_20x24.png","spanT":"","carImg":"./img/allcar12.png","text":"자세히 보기","howmuch":"견적 내기 ＞","oncar":"시승 신청 ＞"}
+  ],
+  "sub1":[
+    {"h4title":"G90 BLACK"},
+    {"h4title":"G90 Long Wheel Base"},
+    {"h4title":"G90"},
+    {"h4title":"G80"},
+    {"h4title":"G80 ELECTRIFIED"},
+    {"h4title":"G70"},
+    {"h4title":"G70 Shooting Brake"},
+    {"h4title":"GV80"},
+    {"h4title":"GV80 Coupe"},
+    {"h4title":"GV70"},
+    {"h4title":"Electrified GV70"},
+    {"h4title":"GV60"}
+
+  ],
+  "sub2":[
+    {"h4title":"견적내기","atext":[]},
+    {"h4title":"전기차 구매가이드","atext":[]},
+    {"h4title":"구매 상담 신청","atext":[]},
+    {"h4title":"제네시스 스펙트럼","atext":[]},
+    {"h4title":"사양 조회하기","atext":[]}
+  ],
+  "sub3":[
+    {"h4title":"스페이스",
+     "atext":["스페이스소개","수지","강남","스튜디오하남","스튜디오안성"]
+    },
+    {"h4title":"시승 신청","atext":[]},
+    {"h4title":"전시장 찾기","atext":[]},
+    {"h4title":"제네시스 드라이빙 익스피리언스","atext":[]}
+  ],
+  "sub4":[
+    {"h4title":"제네시스 멤버십",
+    "atext":["멤버십 소개","모빌리티 케어","프리빌리지","모먼츠"]
+    },
+    {"h4title":"MY GENESIS 앱","atext":["서비스 소개","시작하기","차량 관리 서비스","제네시스 커넥티드 서비스","디지털 키","디지털 키 2","제네시스 카페이","빌트인 캠","고객센터 및 A/S안내"]},
+    {"h4title":"테크놀로지","atext":["테크놀로지 소개","무선 소프트웨어 업데이트","카투홈/홈투카"]},
+    {"h4title":"차량관리 서비스","atext":["서비스 네트워크 찾기","충전 안내","호환성 안내","바디케어 서비스","워런티 플러스","자동차 교환, 환불 중재 규정 안내","하자 재발 통보 안내"]}
+  ],
+  "sub5":[
+    {"h4title":"브랜드","atext":["브랜드 소개","비전"]},
+    {"h4title":"콘셉트카","atext":["콘셉트카 소개 소개","Genesis Neolun Concept","Genesis Magma","Genesis X Snow Speediun Concept","Genesis X Gran Berlinetta Concept","Genesis GV80 Coupe Concept","Genesis X Convertible Concept","Genesis X Speedium Coupe Concept","Genesis X Concept","Mint Concept","Essentia Concept","GV80 Concept","New York Concept"]},
+    {"h4title":"제네시스X골프","atext":["제네시스X골프 소개","제네시스 포인트","제네시스 챔피언십","제네시스 글로벌","갤러리"]},
+    {"h4title":"모터쇼","atext":["모터쇼 소개","서울 모빌리티쇼 2023","서울 모빌리티쇼 2021","광저우 모터쇼","상하이 오토쇼","디지털 모터쇼","뉴욕 국제 오토쇼","서울 모터쇼 2019","부산 국제 모터쇼 2018"]},
+    {"h4title":"로드트립","atext":["로드트립 소개","담양-화순","안동","통영","해남 강진","충주","울릉도","부산","여주","백두대간","순천","제주 2021"]}
+  ],
+  "sub6":[
+    {"h4title":"고객센터 안내"},
+    {"h4title":"공지사항"},
+    {"h4title":"이벤트"},
+    {"h4title":"자주 묻는 질문"},
+    {"h4title":"다운로드 센터"}
+  ]
+}
